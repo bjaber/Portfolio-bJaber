@@ -1,0 +1,44 @@
+body {
+   color: #777777;
+    background:"IMG_1081.JPG";
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+  .logo{
+    font-family: Georgia, Times, "Times New Roman", serif;
+    text-shadow:1px 1px #999;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+
+  }
+  .main-section {
+    width: 250px;
+    height: 250px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background:#1e1e29;
+    opacity:0.7;
+  }
+  
+  #linked{
+  height:40px;
+  width: 50px;
+  
+  }
+ edia screen {
+    max-width: 980px;
+  }
+
+  @media screen{
+    max-width: 768px;
+  }
+  
+  @media screen{
+    max-width: 640px;
+
+    
+  }
