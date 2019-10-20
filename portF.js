@@ -1,9 +1,8 @@
 $(document).ready(function(){
 
-$("#linked").on("click",src ="www.linkedin.com/in/basem-jaber-737774129");
+var linkedInUrl = "www.linkedin.com/in/basem-jaber-737774129";
 
-
-
+$("#linked").attr("href",linkedInUrl);
 
 
 
